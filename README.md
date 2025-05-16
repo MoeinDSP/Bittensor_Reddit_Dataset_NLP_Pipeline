@@ -33,7 +33,7 @@
 
 <img src="https://raw.githubusercontent.com/moein70/project/main/images/moein.jpg" width="120" height="120"><br>
 <b>Moein Taherinezhad</b><br>
-AI & Geoinformatics<br>
+Signals and Data Analysis<br>
 <a href="mailto:moein.taherinezhad@mail.polimi.it">Mail</a> |
-<a href="https://github.com/moein70">GitHub</a> |
-<a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
+<a href="https://github.com/MoeiDSP">GitHub</a> |
+<a href="https://www.linkedin.com/in/moein-t-737178169/">LinkedIn</a>
