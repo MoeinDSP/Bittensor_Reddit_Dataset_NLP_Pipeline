@@ -14,14 +14,21 @@
       <a href="https://www.linkedin.com/in/moein-t-737178169/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="LINK_TO_MEMBER2_IMAGE" width="120" height="120"><br><b>Member 2</b><br>
+      <img src="LINK_TO_MEMBER2_IMAGE" width="120" height="120"><br><b>Roman Tiedrez</b><br>
       Title or Role<br>
       <a href="mailto:email2@example.com">Mail</a> |
       <a href="https://github.com/member2">GitHub</a> |
       <a href="https://www.linkedin.com/in/member2">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="LINK_TO_MEMBER3_IMAGE" width="120" height="120"><br><b>Member 3</b><br>
+      <img src="LINK_TO_MEMBER3_IMAGE" width="120" height="120"><br><b>Hamidreza Khodadadi</b><br>
+      Title or Role<br>
+      <a href="mailto:email3@example.com">Mail</a> |
+      <a href="https://github.com/member3">GitHub</a> |
+      <a href="https://www.linkedin.com/in/member3">LinkedIn</a>
+    </td>
+   <td align="center">
+      <img src="LINK_TO_MEMBER3_IMAGE" width="120" height="120"><br><b>Ali Mehdipour</b><br>
       Title or Role<br>
       <a href="mailto:email3@example.com">Mail</a> |
       <a href="https://github.com/member3">GitHub</a> |
