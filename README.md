@@ -31,7 +31,7 @@
 </table>
 
 
-<img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/IMG_3337.png" width="100" height="100"><br>
+<img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/photo_2025-03-02_23-29-00%20(2).jpg" width="100" height="100"><br>
 <b>Moein Taherinezhad</b><br>
 Signals and Data Analysis<br>
 <a href="mailto:moein.taherinezhad@mail.polimi.it">Mail</a> |
