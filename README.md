@@ -7,11 +7,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="LINK_TO_YOUR_IMAGE" width="120" height="120"><br><b>Moein Taherinezhad</b><br>
-      AI & Geoinformatics<br>
-      <a href="mailto:your.email@example.com">Mail</a> |
-      <a href="https://github.com/YOUR_GITHUB">GitHub</a> |
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
+      <img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/photo_2025-03-02_23-29-00%20(2).jpg" width="100" height="100"><br><b>Moein Taherinezhad</b><br>
+      Signals and Data Analysis<br>
+      <a href="mailto:mailto:moein.taherinezhad@mail.polimi.it">Mail</a> |
+      <a href="https://github.com/MoeiDSP">GitHub</a> |
+      <a href="https://www.linkedin.com/in/moein-t-737178169/">LinkedIn</a>
     </td>
     <td align="center">
       <img src="LINK_TO_MEMBER2_IMAGE" width="120" height="120"><br><b>Member 2</b><br>
@@ -31,9 +31,4 @@
 </table>
 
 
-<img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/photo_2025-03-02_23-29-00%20(2).jpg" width="100" height="100"><br>
-<b>Moein Taherinezhad</b><br>
-Signals and Data Analysis<br>
-<a href="mailto:moein.taherinezhad@mail.polimi.it">Mail</a> |
-<a href="https://github.com/MoeiDSP">GitHub</a> |
-<a href="https://www.linkedin.com/in/moein-t-737178169/">LinkedIn</a>
+
