@@ -22,7 +22,7 @@
     </td>
     <td align="center">
       <img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/HamidrezaKhodadadi.jpeg" width="120" height="120"><br><b>Hamidreza Khodadadi</b><br>
-      Title or Role<br>
+      Models<br>
       <a href="mailto:hamidreza.khodadadi@mail.polimi.it">Mail</a> |
       <a href="https://github.com/hamidkhd">GitHub</a> |
       <a href="https://www.linkedin.com/in/hamidkhd">LinkedIn</a>
