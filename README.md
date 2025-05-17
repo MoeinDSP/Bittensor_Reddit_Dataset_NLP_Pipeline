@@ -8,7 +8,7 @@
   <tr>
     <td align="center">
       <img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/photo_2025-03-02_23-29-00%20(2).jpg" width="100" height="100"><br><b>Moein Taherinezhad</b><br>
-      Signals and Data Analysis<br>
+      Models<br>
       <a href="mailto:mailto:moein.taherinezhad@mail.polimi.it">Mail</a> |
       <a href="https://github.com/MoeiDSP">GitHub</a> |
       <a href="https://www.linkedin.com/in/moein-t-737178169/">LinkedIn</a>
