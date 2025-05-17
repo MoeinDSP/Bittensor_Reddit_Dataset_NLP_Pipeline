@@ -21,11 +21,11 @@
       <a href="https://www.linkedin.com/in/member2">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="LINK_TO_MEMBER3_IMAGE" width="120" height="120"><br><b>Hamidreza Khodadadi</b><br>
+      <img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/HamidrezaKhodadadi.jpeg" width="120" height="120"><br><b>Hamidreza Khodadadi</b><br>
       Title or Role<br>
-      <a href="mailto:email3@example.com">Mail</a> |
-      <a href="https://github.com/member3">GitHub</a> |
-      <a href="https://www.linkedin.com/in/member3">LinkedIn</a>
+      <a href="mailto:hamidreza.khodadadi@mail.polimi.it">Mail</a> |
+      <a href="https://github.com/hamidkhd">GitHub</a> |
+      <a href="https://www.linkedin.com/in/hamidkhd">LinkedIn</a>
     </td>
    <td align="center">
       <img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/ali.jpg" width="120" height="120"><br><b>Ali Mehdipour</b><br>
