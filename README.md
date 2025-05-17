@@ -28,11 +28,11 @@
       <a href="https://www.linkedin.com/in/member3">LinkedIn</a>
     </td>
    <td align="center">
-      <img src="ali.jpg" width="120" height="120"><br><b>Ali Mehdipour</b><br>
+      <img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/ali.jpg" width="120" height="120"><br><b>Ali Mehdipour</b><br>
       Title or Role<br>
       <a href="mailto:ali.mehdipour@mail.polimi.it">Mail</a> |
-      <a href="https://github.com/member3">GitHub</a> |
-      <a href="https://www.linkedin.com/in/member3">LinkedIn</a>
+      <a href="https://github.com/AliMehdipour273930">GitHub</a> |
+      <a href="https://www.linkedin.com/in/alimehdipour-ka">LinkedIn</a>
     </td>
   </tr>
 </table>
