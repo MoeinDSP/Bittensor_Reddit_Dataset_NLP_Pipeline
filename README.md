@@ -29,7 +29,7 @@
     </td>
    <td align="center">
       <img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/ali.jpg" width="120" height="120"><br><b>Ali Mehdipour</b><br>
-      Title or Role<br>
+      Preprocessing - Clustering - Word2Vec - Extension<br>
       <a href="mailto:ali.mehdipour@mail.polimi.it">Mail</a> |
       <a href="https://github.com/AliMehdipour273930">GitHub</a> |
       <a href="https://www.linkedin.com/in/alimehdipour-ka">LinkedIn</a>
