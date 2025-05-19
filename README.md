@@ -33,6 +33,37 @@
       <a href="mailto:ali.mehdipour@mail.polimi.it">Mail</a> |
       <a href="https://github.com/AliMehdipour273930">GitHub</a> |
       <a href="https://www.linkedin.com/in/alimehdipour-ka">LinkedIn</a>
+
+
+
+
+
+
+    # Flood Risk Analysis Project
+
+This project provides a dashboard for analyzing flood risk data in Italy. It allows users to view maps of flood risk, generate reports, and visualize data. There are two types of users: regular users and admin users. Admin users can update the database.
+
+## Features
+
+- View flood risk data on an interactive map  
+- Generate reports in CSV and Excel formats  
+- Visualize data using charts  
+- User authentication with different roles (user and admin)  
+
+## Requirements
+
+- Python 3.7+  
+- PostgreSQL  
+
+### The following Python packages (listed in `requirements.txt`):
+
+- Flask  
+- psycopg2  
+- pandas  
+- geopandas  
+- folium  
+- branca  
+
     </td>
   </tr>
 </table>
