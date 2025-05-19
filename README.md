@@ -44,7 +44,7 @@ This project focuses on mining and analyzing financial discourse within the Bitt
 Our pipeline includes data preprocessing, financial context filtering, model training, and evaluation using both traditional deep learning architectures and transformer-based LLMs. The goal is to better understand financial narratives in decentralized communities and assess their potential influence on decision-making or market perception.
 
 Key contributions of the project include:
-    1- Domain-specific data extraction from social media
+    1- Domain-specific data extraction from social media<br>
     2- Application of DL and LLMs to financial text analysis
     3- Insight generation for downstream financial applications (e.g., sentiment scoring, topic modeling, summarization)
 
