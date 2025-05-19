@@ -64,7 +64,6 @@ Key contributions of the project include:
 - PostgreSQL  
 
 ### The following Python packages (listed in `requirements.txt`):
--->
 
 - Flask  
 - psycopg2  
@@ -72,3 +71,4 @@ Key contributions of the project include:
 - geopandas  
 - folium  
 - branca  
+-->
