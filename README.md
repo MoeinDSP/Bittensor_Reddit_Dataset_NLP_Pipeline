@@ -38,11 +38,20 @@ Applying NLP techniques on Reddit dataset
 
 ---
 
-# Flood Risk Analysis Project
+# Sentiment Analysis on Bittensor Reddit Data
+This project focuses on mining and analyzing financial discourse within the Bittensor Reddit dataset. Leveraging Natural Language Processing (NLP) techniques, we identify and extract posts and comments related to financial topics. The extracted data is then processed and analyzed using advanced deep learning models and large language models (LLMs) to uncover sentiment trends, detect emerging themes, and generate actionable insights.
 
-This project provides a dashboard for analyzing flood risk data in Italy. It allows users to view maps of flood risk, generate reports, and visualize data. There are two types of users: regular users and admin users. Admin users can update the database.
+Our pipeline includes data preprocessing, financial context filtering, model training, and evaluation using both traditional deep learning architectures and transformer-based LLMs. The goal is to better understand financial narratives in decentralized communities and assess their potential influence on decision-making or market perception.
 
-## Features
+Key contributions of the project include:
+
+    Domain-specific data extraction from social media
+
+    Application of DL and LLMs to financial text analysis
+
+    Insight generation for downstream financial applications (e.g., sentiment scoring, topic modeling, summarization)
+<!--
+ ## Features
 
 - View flood risk data on an interactive map  
 - Generate reports in CSV and Excel formats  
@@ -55,6 +64,7 @@ This project provides a dashboard for analyzing flood risk data in Italy. It all
 - PostgreSQL  
 
 ### The following Python packages (listed in `requirements.txt`):
+-->
 
 - Flask  
 - psycopg2  
