@@ -13,11 +13,11 @@ Applying NLP techniques on Reddit dataset
       <a href="https://www.linkedin.com/in/moein-t-737178169/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="LINK_TO_MEMBER2_IMAGE" width="100" height="100"><br><b>Roman Tiedrez</b><br>
-      Title or Role<br>
-      <a href="mailto:email2@example.com">Mail</a> |
-      <a href="https://github.com/member2">GitHub</a> |
-      <a href="https://www.linkedin.com/in/member2">LinkedIn</a>
+      <img src="https://avatars.githubusercontent.com/u/98756662" width="100" height="100"><br><b>Roman Tiédrez</b><br>
+      Exploration - Cleaning - Integration<br>
+      <a href="mailto:romanjules.tiedrez@mail.polimi.it">Mail</a> |
+      <a href="https://github.com/RTiedrez">GitHub</a> |
+      <a href="https://www.linkedin.com/in/roman-tiedrez/">LinkedIn</a>
     </td>
     <td align="center">
       <img src="https://github.com/MoeinDSP/Bittensor_Reddit_Dataset_NLP_Pipeline/blob/main/mem_photo/HamidrezaKhodadadi.jpeg" width="100" height="100"><br><b>Hamidreza Khodadadi</b><br>
@@ -39,37 +39,11 @@ Applying NLP techniques on Reddit dataset
 ---
 
 # Sentiment Analysis on Bittensor Reddit Data
-This project focuses on mining and analyzing financial discourse within the Bittensor Reddit dataset. Leveraging Natural Language Processing (NLP) techniques, we identify and extract posts and comments related to financial topics. The extracted data is then processed and analyzed using advanced deep learning models and large language models (LLMs) to uncover sentiment trends, detect emerging themes, and generate actionable insights.
+This project focuses on mining and analyzing financial discourse within the Bittensor Reddit dataset. Leveraging Natural Language Processing (NLP) techniques, we identify and extract posts and comments related to financial topics. The extracted data is then processed and analyzed using advanced deep learning models and large language models (LLMs) to uncover sentiment trends, detect emerging themes, and generate actionable insights. Many other tasks are explored to showcase the strength of NLP and discuss the potential of Reddit data.
 
-Our pipeline includes data preprocessing, financial context filtering, model training, and evaluation using both traditional deep learning architectures and transformer-based LLMs. The goal is to better understand financial narratives in decentralized communities and assess their potential influence on decision-making or market perception.
+Our pipeline includes data preprocessing, financial context filtering, model training, and evaluation using both traditional deep learning architectures and transformer-based LLMs. The goal is to better understand financial narratives in decentralized informal communities and assess their potential influence on decision-making or market perception.
 
 Key contributions of the project include:<br>
     1- Domain-specific data extraction from social media<br>
     2- Application of DL and LLMs to financial text analysis<br>
     3- Insight generation for downstream financial applications (e.g., sentiment scoring, topic modeling, summarization)
-
-    
-
-
-<!--
- ## Features
-
-- View flood risk data on an interactive map  
-- Generate reports in CSV and Excel formats  
-- Visualize data using charts  
-- User authentication with different roles (user and admin)  
-
-## Requirements
-
-- Python 3.7+  
-- PostgreSQL  
-
-### The following Python packages (listed in `requirements.txt`):
-
-- Flask  
-- psycopg2  
-- pandas  
-- geopandas  
-- folium  
-- branca  
--->
